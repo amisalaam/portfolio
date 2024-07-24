@@ -2,7 +2,7 @@ import { useState } from 'react';
 
 function App() {
   return (
-    <div>
+    <div className='bg-black text-white '>
       <h1 className="text-3xl font-bold underline">
         Hello world!
       </h1>
